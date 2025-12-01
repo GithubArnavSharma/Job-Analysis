@@ -1,6 +1,6 @@
 # Job-Analysis
 
-Tableau Links:
+Tableau Visualizations:
 
 https://public.tableau.com/views/JobAnalysis1_17646275252590/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
